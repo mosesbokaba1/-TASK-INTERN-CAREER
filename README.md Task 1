@@ -1,0 +1,44 @@
+# Task-intern-career-
+Youtube streamer analysis
+Project Name: YouTube Streamers Analysis
+
+#INTRODUCTION
+
+This project aims to explore and analyze data related to YouTube streamers to gain insights into their performance, audience demographics, content categories, and brand collaborations. By examining various aspects of YouTube streaming data, we seek to understand trends, patterns, and potential correlations that can inform strategic decisions for content creators and marketers.
+
+# 1. DATA CLEANING AND EXPLORATION 
+# I have identified and handled missing values in the 'Categories' column.
+# I have detected and removed duplicate entries based on the 'Username' column.
+# The dataset contains information on various YouTube channels, including their ranks, usernames, categories, subscriber counts, country, visit counts, likes, comments, and links.
+
+# 2.TREND ANALYSIS:
+# I have visualized trends such as subscriber count versus rank and identified some patterns and outliers.
+# You've explored the distribution of categories among the top ten YouTubers by subscribers.
+
+ # 3. AUDIENCE STUDY: 
+# I have analyzed the total audience size by country, identifying the top countries with the most visits.
+# I have also investigated the total audience size by category and visualized the distribution across different countries.
+
+ # 4. PERFOMANCE METRICS:
+# This step calculated average metrics such as subscribers, visits, likes, and comments, providing insight into the overall performance of the channels.
+# It also identified exceptional performance in specific content categories based on high average likes.
+
+ # 5. CONTENT CATEGORIES: 
+# This step explored the distribution of streamers across different content categories.
+# It further Identified categories with exceptional performance based on high average likes.
+
+ # 6. BRAND COLLABORATION AND ANALYSIS:  
+# This examined engagement metrics for high-performing streamers, which could be valuable for potential brand collaborations.
+
+# 7. BENCHMARKING: 
+# This identified top-performing streamers based on various performance metrics.
+
+#  8. ALL VISUALS: 
+# This notebook includes a variety of visualizations, such as bar plots, line plots, scatter plots, heatmaps, and pair plots, which effectively convey insights from the data.
+
+#CONCLUSION
+
+This README provides an overview of the analyses conducted on YouTube streamers' data, covering various aspects from trends and audience demographics to performance metrics and brand collaborations. The insights gained from this analysis can serve as valuable inputs for content creators, marketers, and other stakeholders looking to understand and leverage the YouTube streaming ecosystem effectively. Further analysis and refinement may be warranted based on specific business objectives and questions.
+
+
+
